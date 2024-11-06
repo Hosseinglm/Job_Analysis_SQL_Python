@@ -2,11 +2,11 @@
 
 ## Overview
 This repository contains a series of SQL scripts aimed at analyzing the job market for Data Analyst roles. The analyses cover various aspects such as salary trends, skill demands, and company comparisons. Each analysis is designed to provide valuable insights for job seekers, recruiters, and organizations looking to understand the evolving landscape of Data Analyst positions.</br>
-Database information:
-Job Postings Fact Shape: (787.686, 16)
-Company Dim Shape: (140.033, 5)
-Skills Job Dim Shape: (3.669.604, 2)
-Skills Dim Shape: (259, 3)
+Database information:</br>
+Job Postings Fact Shape: (787.686, 16)</br>
+Company Dim Shape: (140.033, 5)</br>
+Skills Job Dim Shape: (3.669.604, 2)</br>
+Skills Dim Shape: (259, 3)</br>
 
 ## Table of Contents
 1. [Top-Paying Jobs Analysis](#top-paying-jobs-analysis)
