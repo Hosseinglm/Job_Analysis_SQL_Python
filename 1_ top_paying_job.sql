@@ -1,7 +1,7 @@
 
 --Question:
 --What are the highest-paying remote Data Analyst roles available, including the companies offering these positions?
-
+--
 
 WITH top_paying_jobs AS (
     SELECT 
