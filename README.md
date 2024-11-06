@@ -1,7 +1,7 @@
 # Data Analyst Job Market Analysis
 
 ## Overview
-This repository contains a series of SQL scripts aimed at analyzing the job market for Data Analyst roles. The analyses cover various aspects such as salary trends, skill demands, and company comparisons. Each analysis is designed to provide valuable insights for job seekers, recruiters, and organizations looking to understand the evolving landscape of Data Analyst positions.
+This repository contains a series of SQL scripts aimed at analyzing the job market for Data Analyst roles. The analyses cover various aspects such as salary trends, skill demands, and company comparisons. Each analysis is designed to provide valuable insights for job seekers, recruiters, and organizations looking to understand the evolving landscape of Data Analyst positions.</br>
 Database information:
 Job Postings Fact Shape: (787.686, 16)
 Company Dim Shape: (140.033, 5)
